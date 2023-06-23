@@ -3,14 +3,14 @@ ENTER
 GUI l
 ENTER
 GUI l
-STRING i <3 spam
+STRING pp
 TAB
 ENTER
 GUI l
 ENTER
 GUI l
 REPEAT 2
-STRING i <3 spam
+STRING pp
 TAB
 ENTER
 REM Press the dpad to spam someone
